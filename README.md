@@ -3,9 +3,9 @@ This is **an example of 50 Alphas** that can **pass the correlation test** if th
 
 ## Description 
 
-This is an example of 50 Alphas that can pass the correlation test if they are submitted together.
+This is **an example of 50 Alphas** that can **pass the correlation test** if they are submitted together.
 
-You can get inspiration from them and use your inspiration in the **WorldQuant Alphathon.**
+You can **get inspiration** from them and use your inspiration in the **WorldQuant Alphathon.**
 
 **P.S. Principle of correlation test**
 
@@ -22,6 +22,6 @@ We have **a unique method** to find these Alphas, and it works perfectly. So far
 ## How to connect us?
 If you are interested in our guidance, contact:
 
-E-mail: crisperx@outlook.com
+E-mail: CrisperX@outlook.com
 
 Remember to tell us who you are.
