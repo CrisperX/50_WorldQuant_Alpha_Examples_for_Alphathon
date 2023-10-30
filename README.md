@@ -1,4 +1,4 @@
-# 50WorldQunatAlphaExamples
+# 50WorldQuantAlphaExamples
 This is **an example of 50 Alphas** that can **pass the correlation test** if they are submitted together. 
 
 ## Description 
